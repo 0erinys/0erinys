@@ -12,6 +12,19 @@ Here are some ideas to get you started:
 
 ##
 <div align="center">
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&&height=120&section=header"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=212529&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Hyung!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+  </a>
+
+##
+
+<div align="center">
   <a href="https://github.com/HyungNakamotto/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HyungNakamotto&bg_color=0e1118&hide_border=true&custom_title=HyungNakamotto%20Contribution%20Graph&area=true&area_color=ced4da&title_color=ced4da&line=343a40&point=ced4da&theme=high-contrast" width="800" alt="HyungNakamottoContribution-graph" title="HyungNakamotto Contribution Graph">
   </a>
@@ -41,6 +54,3 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/Hyung_Nakamotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/hyungnakamotto" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bpereiradantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  
-
