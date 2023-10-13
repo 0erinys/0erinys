@@ -1,6 +1,5 @@
 ## Hey how's it going? My name is Breno, nice to have you here 😄
 
-##
 Here are some ideas to get you started:
 
 - ♟ I currently work in the area of ​​digital marketing and graphic design
@@ -11,8 +10,9 @@ Here are some ideas to get you started:
 - 🎞 Pronouns: he/him
 - 📷 Curiosities: I'm 17 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
 
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungNakamotto&show_icons=true&theme=dark)
  ##
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
