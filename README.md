@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 - 🎞 Pronouns: he/him
 - 📷 Curiosities: I'm 17 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 ##
+
 <div align="center">
   <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&&height=120&section=header"/>
