@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
   ![Snake animation](https://github.com/HyungNakamotto/HyungNakamotto/blob/output/github-contribution-grid-snake.svg)
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=HyungNakamotto&repo=artur-debv&theme=react)](https://github.com/HyungNakamotto/HyungNakamotto)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=HyungNakamotto&repo=HyungNakamotto&theme=react)](https://github.com/HyungNakamotto/HyungNakamotto)
