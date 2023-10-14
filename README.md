@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e9ecef&&height=120&section=header"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=212529&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Hyung!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e9ecef&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Hyung!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
   </a>
 
 ##
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/HyungNakamotto/">
     <img src="https://github-readme-stats.vercel.app/api?username=HyungNakamotto&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Hyung's%20GitHub%20Stats&title_color=ced4da&icon_color=ced4da&border_color=ced4da&bg_color=0e1118&disable_animations=true" width="460" alt="HyungNakamotto-stats" title="Hyung's GitHub Stats">
   </a>
+</div>
+
   <a href="https://github.com/HyungNakamotto/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungNakamotto&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Hyung's%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=adb5bd&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
   </a>
