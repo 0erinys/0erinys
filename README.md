@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
   <a href="https://github.com/HyungNakamotto/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungNakamotto&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Hyung's%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=adb5bd&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungNakamotto&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Hyung's%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=adb5bd&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="HyungNakamottoLangs-stats" title="Hyung's Coding Language Stats">
   </a>
 
 ##
