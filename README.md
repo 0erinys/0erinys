@@ -1,4 +1,4 @@
-## Hey how's it going? My name is Breno, nice to have you here 😄
+## Hey how's it going? My name is Breno, nice to have you here.
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🕷 I'm looking for help in understanding more and more the area of ​​computing and its languages
 - ⚙ How to reach me: Instagram, Discord or E-mail
 - 🎞 Pronouns: he/him
-- 📷 Curiosities: I'm 17 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
+- 📷 Me: I'm 17 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
 
 ##
 
