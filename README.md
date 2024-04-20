@@ -51,18 +51,17 @@ Here are some ideas to get you started:
   
 ##
 
-</div>
 <div align="center">
   <a href="https://github.com/HyungNakamotto/">
     <img src="https://github-readme-stats.vercel.app/api?username=HyungNakamotto&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Hyung's%20GitHub%20Stats&title_color=ced4da&icon_color=ced4da&border_color=ced4da&bg_color=0e1118&disable_animations=true" width="460" alt="HyungNakamotto-stats" title="Hyung's GitHub Stats">
-  </a>
-  
+  </a> 
 </div>
 
-  </a>
+<div align="center">
   <a href="https://github.com/HyungNakamotto/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungNakamotto&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Hyung's%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="HyungNakamottoTopLangs-stats" title="Hyung's Coding Language Stats">
   </a>
+</div>
 
 ##
 
@@ -72,9 +71,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-  ##
+##
  
-<div> 
+<div align="center">
   <a href="https://instagram.com/0_erinys" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
