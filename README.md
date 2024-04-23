@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: inline_block">
-  <img align="center" alt="VisualStudio" height="35" src="https://github.com/juletopi/HyungNakamotto-ReadMe-Fork/assets/76459155/7522a531-e614-46fe-a002-978a8bbbba47" />
-  <img align="center" alt="VisualStudio" height="35" src="https://github.com/juletopi/HyungNakamotto-ReadMe-Fork/assets/76459155/86b870ba-add3-4d31-9dc5-24518dea75af" />
+  <img align="center" alt="VisualStudio" height="35" src="assets/visualstudio" />
+  <img align="center" alt="VSCode" height="35" src="assets/vscode" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CLanguage" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Anaconda" height="35" src="https://github.com/juletopi/HyungNakamotto-ReadMe-Fork/assets/76459155/d8d5ffb6-c64b-44cc-adb3-a37f3de90395" />
+  <img align="center" alt="Anaconda" height="35" src="assets/anaconda" />
 </div>
 
 ##
