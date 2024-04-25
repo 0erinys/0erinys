@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CLanguage" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Anaconda" height="30" src="assets/anaconda" />
-  <img align="center" alt="Anaconda" height="35" src="assets/Pandas" />
-  <img align="center" alt="Anaconda" height="35" src="assets/geopandas_icon.png" />
-  <img align="center" alt="Anaconda" height="35" src="assets/Lua-Logo.svg.png" />
+  <img align="center" alt="Pandas" height="35" src="assets/Pandas" />
+  <img align="center" alt="Geopandas" height="35" src="assets/geopandas_icon.png" />
+  <img align="center" alt="Lua" height="35" src="assets/Lua-Logo.svg.png" />
   
 </div>
 
