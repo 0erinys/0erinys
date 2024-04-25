@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Anaconda" height="30" src="assets/anaconda" />
   <img align="center" alt="Anaconda" height="35" src="assets/Pandas" />
   <img align="center" alt="Anaconda" height="35" src="assets/geopandas_icon.png" />
+  <img align="center" alt="Anaconda" height="35" src="assets/Lua-Logo.svg.png" />
 </div>
 
 ##
