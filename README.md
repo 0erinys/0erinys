@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+   <img align="center" alt="DiscordJS" height="30" width="40" src="assets/pngwing.com (2).png" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CLanguage" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
