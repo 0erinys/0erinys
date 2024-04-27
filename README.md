@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- ♟ I currently work in the area of ​​digital marketing and graphic design
+- ♟ I currently work in the area of ​​digital marketing, graphic design and programing
 - 🔗 I am currently studying high school and technical courses
 - 🐼 I seek to collaborate in areas of programming language and agricultural sciences
 - 🕷 I'm looking for help in understanding more and more the area of ​​computing and its languages
