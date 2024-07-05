@@ -43,37 +43,37 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e9ecef&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Hyung!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e9ecef&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Erinys!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
   </a>
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/HyungNakamotto/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HyungNakamotto&bg_color=0e1118&hide_border=true&custom_title=HyungNakamotto%20Contribution%20Graph&area=true&area_color=ced4da&title_color=ced4da&line=343a40&point=ced4da&theme=high-contrast" width="800" alt="HyungNakamottoContribution-graph" title="HyungNakamotto Contribution Graph">
+  <a href="https://github.com/0erinys/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0erinys&bg_color=0e1118&hide_border=true&custom_title=Erinys%20Contribution%20Graph&area=true&area_color=ced4da&title_color=ced4da&line=343a40&point=ced4da&theme=high-contrast" width="800" alt="0erinysContribution-graph" title="0erinys Contribution Graph">
   </a>
 </div>
   
 ##
 
 <div align="center">
-  <a href="https://github.com/HyungNakamotto/">
-    <img src="https://github-readme-stats.vercel.app/api?username=HyungNakamotto&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Hyung's%20GitHub%20Stats&title_color=ced4da&icon_color=ced4da&border_color=ced4da&bg_color=0e1118&disable_animations=true" width="460" alt="HyungNakamotto-stats" title="Hyung's GitHub Stats">
+  <a href="https://github.com/0erinys/">
+    <img src="https://github-readme-stats.vercel.app/api?username=0erinys&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Erinys%20GitHub%20Stats&title_color=ced4da&icon_color=ced4da&border_color=ced4da&bg_color=0e1118&disable_animations=true" width="460" alt="0erinys-stats" title="0erinys GitHub Stats">
   </a> 
 </div>
 
 <div align="center">
-  <a href="https://github.com/HyungNakamotto/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungNakamotto&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Hyung's%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="HyungNakamottoTopLangs-stats" title="Hyung's Coding Language Stats">
+  <a href="https://github.com/0erinys/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0erinys&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Erinys%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="0erinysTopLangs-stats" title="Erinys Coding Language Stats">
   </a>
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/HyungNakamotto/">
-    <img src="https://streak-stats.demolab.com/?user=HyungNakamotto&theme=dark&hide_border=true&background=0E1118&ring=adb5bd&fire=dee2e6&currStreakLabel=adb5bd&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="HyungNakamotto-stats" title="Hyung's Streak Stats">
+  <a href="https://github.com/0erinys/">
+    <img src="https://streak-stats.demolab.com/?user=0erinys&theme=dark&hide_border=true&background=0E1118&ring=adb5bd&fire=dee2e6&currStreakLabel=adb5bd&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="0erinys-stats" title="Erinys Streak Stats">
   </a>
 </div>
 
@@ -83,10 +83,10 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/0_erinys" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/hyungnakamotto" target="_blank">
+  <a href="https://discord.gg/0_erinys" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
   </a> 
-  <a href = "mailto:bpereiradantas@gmail.com">
+  <a href = "mailto:brenop.geo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
  	<a href="https://www.twitch.tv/0_erinys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
