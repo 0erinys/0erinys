@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🕷 I'm looking for help in understanding more and more the area of ​​computing and its languages
 - ⚙ How to reach me: Instagram, Discord or E-mail
 - 🎞 Pronouns: he/him
-- 📷 Me: 17 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
+- 📷 Me: 18 years old, I have two technologists and a specialization, I love the area of ​​programming language and human behavior and I'm fascinated by literature and black cats
 
 ##
 
