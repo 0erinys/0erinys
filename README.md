@@ -72,14 +72,6 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <a href="https://github.com/0erinys/">
-    <img src="https://streak-stats.demolab.com/?user=0erinys&theme=dark&hide_border=true&background=0E1118&ring=adb5bd&fire=dee2e6&currStreakLabel=adb5bd&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="0erinys-stats" title="Erinys Streak Stats">
-  </a>
-</div>
-
-##
- 
-<div align="center">
   <a href="https://instagram.com/0_erinys" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
