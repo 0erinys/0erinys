@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e9ecef&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Erinys!;I'm+17+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e9ecef&center=true&vCenter=true&width=700&height=100&lines=Hello+peoples%2C+i'm+Erinys!;I'm+18+years+old.;I'm+from++Brazil.;Aiming+to+start+as+a+dev!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
   </a>
 </div>
 
