@@ -60,28 +60,4 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/0erinys/">
     <img src="https://github-readme-stats.vercel.app/api?username=0erinys&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Erinys%20GitHub%20Stats&title_color=ced4da&icon_color=ced4da&border_color=ced4da&bg_color=0e1118&disable_animations=true" width="460" alt="0erinys-stats" title="0erinys GitHub Stats">
-  </a> 
-</div>
-
-<div align="center">
-  <a href="https://github.com/0erinys/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0erinys&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Erinys%20Top%20Langs%20(By%20File%20Size)&title_color=adb5bd&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="0erinysTopLangs-stats" title="Erinys Coding Language Stats">
   </a>
-</div>
-
-##
-
-<div align="center">
-  <a href="https://instagram.com/0_erinys" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/0_erinys" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
-  </a> 
-  <a href = "mailto:brenop.geo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.twitch.tv/0_erinys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-pereira-dantas-b81544296" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
